@@ -7,9 +7,9 @@
 <br>
 <div align = "center">
 <a href = "https://github.com/MariaPereiraTI">
-  <img height="155em" src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaPereiraTI&theme=algolia">
-  <img height="155em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariaPereiraTI&theme=algolia&utcOffset=8">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaPereiraTI&theme=algolia"
+  <img height="160em" src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaPereiraTI&theme=algolia">
+  <img height="160em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariaPereiraTI&theme=algolia&utcOffset=8">
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaPereiraTI&theme=algolia"
 </div>
 
 <div align="center">
